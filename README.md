@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sanchit-50
 - 👀 I’m interested in Coding
-- 🌱 I’m currently in 10th standard
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently in college
 - 📫 How to reach me ...
 
 <!---
