@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Sanchit-50
+- 👋 Hi, I’m Sanchit
 - 👀 I’m interested in Coding
 - 🌱 I’m currently in college
 - 📫 How to reach me ...
 
-<!---
-Sanchit-50/Sanchit-50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
